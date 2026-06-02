@@ -449,43 +449,22 @@ FILES = {
         "'consultoria técnica de campo'. Tem reembolso de despesas que ninguém aprova direito. Tem viagens que ninguém faz. Eu entendo de"
         "contabilidade o suficiente para saber que isso é errado. E tem mais. Tem benefício pessoal. Eu não vou detalhar porque tenho medo"
         "de ser identificado, mas existem pessoas nessa empresa que estão sendo muito bem tratadas por esse fornecedor fora do ambiente de"
-        "trabalho. Muito bem tratadas. Quando eu percebi o que estava acontecendo, eu cometi o erro de comentar com meu
-gestor direto. Achei que era a coisa certa. Não vou dizer o nome dele aqui, mas ele é
-subordinado ao Diretor de Suprimentos. Dois dias depois dessa conversa, minha vida virou
-um inferno.
-Passei a ser excluído de reuniões que eu sempre participei. Recebi uma avaliação de
-desempenho negativa pela primeira vez em onze anos — sem nenhuma conversa prévia,
-sem feedback, do nada. Fui realocado para uma função lateral, com a justificativa de
-'necessidade da área'. Minha senha de acesso a determinados sistemas foi revogada sem
-nenhum comunicado formal.
-Numa reunião fechada, meu gestor me disse — e eu lembro de cada palavra — que eu
-estava 'confundindo as coisas', que eu havia 'mal interpretado processos técnicos que eu não
-tinha capacidade de entender', e que seria 'muito ruim para a minha carreira continuar nessa
-direção'. Isso é ameaça. Isso é assédio. Eu sei o que é isso.
-Minha família está sofrendo com isso. Eu não durmo direito faz semanas. Minha esposa
-me pergunta todo dia o que está acontecendo e eu não sei o que contar porque tenho medo
-que isso vaze e eu perca meu emprego antes que alguém tome uma atitude.
-Eu sei que esse canal é da KPMG e não da empresa. Eu só estou escrevendo aqui por
-isso. Se esse relato chegar nas mãos de quem eu denuncio antes de chegar em quem precisa
-investigar, eu sei o que vai acontecer comigo.
-Eu tenho documentos. Tenho alguns e-mails guardados fora dos sistemas da empresa.
-Tenho uma planilha que eu montei comparando valores de contratos com benchmarks de
-mercado — a diferença é absurda. Se houver uma forma segura de eu entregar isso sem ser
-identificado, eu quero fazer isso.
-Eu não sou um problema para essa empresa. Eu sou um funcionário que tentou fazer a
-coisa certa e foi destruído por isso.
-Alguém precisa ouvir isso.
-Minha filha, agora vai ser tudo ou nada foda se vamos meter no Ministério do trabalho, falar sobre a insalubridade, "
-        "que ninguém faz nada, mesmo sabendo que todo mundo trabalha 1213141516 horas, final de semana, que é insalubre, "
-        "ninguém faz nada. Vamos, vamos mandar a lei de trabalho, vamos mandar a lei, veja a lei, nós vamos denunciar aqui "
-        "para o Ministério do trabalho. Vamos denunciar o Ministério do trabalho porque AA aliens está infringindo as a as "
-        "leis brasileiras do Ministério. Vamos mandar para ele ali está aqui ó, é só vocês pedir para alguém traduzir quais "
-        "são as leis do trabalho. É aqui, não é cumprido. O Eduardo sabe de tudo isso e a única coisa que ele pensa aqui é "
-        "em produção, produção, produção, produção. Ninguém liga para qualidade de vida de ninguém, de ninguém. O negócio dele "
-        "é todo mundo tem que trabalhar os 3 dias no escritório, faça a chuva, faça sol e entrega, entrega, entrega. Quer dizer, "
-        "a gente não tem o mínimo de apoio moral. A gente é tratado tudo como qualquer merda. Você vai ver, vou, eu vou formular "
-        "esse e-mail, vou mandar do tablet da Gabriela e vida que segue, vou mandar pro Price townset, vou, vou pegar o nome dele, "
-        "vou mandar Pra Ele, vou mandar pro combinari. Porque eu como nariz, ele é LATAM, né? Então ele está acima do Edward."
+        "trabalho. Muito bem tratadas. Quando eu percebi o que estava acontecendo, eu cometi o erro de comentar com meu"
+        "gestor direto. Achei que era a coisa certa. Não vou dizer o nome dele aqui, mas ele é subordinado ao Diretor de Suprimentos. "
+        "Dois dias depois dessa conversa, minha vida virou um inferno. Passei a ser excluído de reuniões que eu sempre participei."
+        "Recebi uma avaliação de desempenho negativa pela primeira vez em onze anos — sem nenhuma conversa prévia, sem feedback, do nada. "
+        "Fui realocado para uma função lateral, com a justificativa de 'necessidade da área'. Minha senha de acesso a determinados"
+        "sistemas foi revogada sem nenhum comunicado formal. Numa reunião fechada, meu gestor me disse — e eu lembro de cada palavra — que"
+        "eu estava 'confundindo as coisas', que eu havia 'mal interpretado processos técnicos que eu não tinha capacidade de entender',"
+        "e que seria 'muito ruim para a minha carreira continuar nessa direção'. Isso é ameaça. Isso é assédio. Eu sei o que é isso."
+        "Minha família está sofrendo com isso. Eu não durmo direito faz semanas. Minha esposa me pergunta todo dia o que está acontecendo"
+        "e eu não sei o que contar porque tenho medo que isso vaze e eu perca meu emprego antes que alguém tome uma atitude."
+        "Eu sei que esse canal é da KPMG e não da empresa. Eu só estou escrevendo aqui por isso. Se esse relato chegar nas mãos de quem eu"
+        "denuncio antes de chegar em quem precisa investigar, eu sei o que vai acontecer comigo. Eu tenho documentos. Tenho alguns e-mails"
+        "guardados fora dos sistemas da empresa. Tenho uma planilha que eu montei comparando valores de contratos com benchmarks de"
+        "mercado — a diferença é absurda. Se houver uma forma segura de eu entregar isso sem ser identificado, eu quero fazer isso."
+        "Eu não sou um problema para essa empresa. Eu sou um funcionário que tentou fazer a coisa certa e foi destruído por isso."
+        "Alguém precisa ouvir isso."
     ),
 }
 
