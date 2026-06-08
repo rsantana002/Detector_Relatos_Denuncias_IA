@@ -376,64 +376,7 @@ def print_report(results: list[dict]) -> None:
 # ─────────────────────────────────────────────────────────────────────────────
 
 FILES = {
-    "WhatsApp_Video_16.56.38.txt": (
-        "Depois vou te mandar o print a foto vaca do caralho. Nossa, que raiva, que raiva dessa mulher. "
-        "Onde já se viu me mandar 11 negócio assim Do Nada, sabe? Tipo é eu não assim, não tem tanta coisa assim, "
-        "mas tem, entendeu? Assim me me expõe, nossa, vou te falar. Eu, eu tô puta da vida com essa vagabunda, "
-        "eu não consigo nem mais chamar o nome dela me enchendo o saco, nem que você vai participar dessa reunião, "
-        "não sei o que eu falei, vou, OPA, estou na reunião, não tô entendendo, falei desse jeito, não entendi. "
-        "Aí ela falou assim, é, mandou no gol, vai ser super importante vocês participarem. Falei, então essa reunião "
-        "só foi sondada porque eu, o naka e o Caio pedimos, eu não tô entendendo ainda. Falei para ela, Ah, que vaca do caralho."
-    ),
-    "WhatsApp_Video_16.56.39.txt": (
-        "Hoje ela não falou nada, mas Ah, ela está puta da vida, né? Aí Ah, está aí. o RH me ligou na sexta-feira, "
-        "eu venho conversando com eles, né? Enfim, aí que acha um absurdo esse negócio dela querer participar, "
-        "ela não vai participar das entrevistas, ela falou com ela hoje ela não me falou nada para você, ela não te "
-        "mentir mais e aí ela falou, não, ela vai participar só. Tal dos finalistas não tem porque você ficar participando "
-        "isso aí a Ana tem que fazer, não é você? Você tem outras coisas mais importantes, isso aí não cabe seu cargo, "
-        "nossa, ela deve ter ficado puta, todas aquelas pessoas que ela indicou mandou de tudo quanto é jeito que eu falei "
-        "que eu não IA sabe o que ela fez? Mandou lá pra h, aí veio hoje eu vou terminar todo mundo isso eu não quero isso, "
-        "eu não quero lá se foder, vaca do parado eu que raiva dessa mulher, que raiva."
-    ),
-    "WhatsApp_Video_16.56.43.txt": (
-        "É assim mesmo, ele não aprova nada, a Patrícia é que não liga Como Ela É ela que aprova o meu, então é de boa, "
-        "mas o masferreve ele faz questão de 50 centavos. O que é isso, gente? O que é isso? Sabe o que é isso? Eu, "
-        "sinceramente, nossa, esse cara é uma bosta. Minha filha, agora vai ser tudo ou nada foda se vamos meter no "
-        "Ministério do trabalho, falar sobre a insalubridade, que ninguém faz nada, mesmo sabendo que todo mundo trabalha "
-        "1213141516 horas, final de semana, que é insalubre, ninguém faz nada. Vamos, vamos mandar a lei de trabalho, "
-        "vamos mandar a lei, veja a lei. Nós vamos denunciar aqui para o Ministério do trabalho. Vamos denunciar. "
-        "Para o Ministério do trabalho, porque AA Allianz está infringindo as as leis brasileiras do Ministério. "
-        "O Eduardo sabe de tudo isso e a única coisa que ele pensa aqui em produção, produção, produção, produção. "
-        "Ninguém liga para a qualidade de vida de ninguém, de ninguém. O negócio dele é todo mundo tem que trabalhar "
-        "os 3 dias no escritório, faça chuva, faça sol e entrega, entrega, entrega. Quer dizer, a gente não tem o "
-        "mínimo de apoio moral. A gente é tratado tudo como qualquer merda. Você vai ver. Vou, eu vou formular esse "
-        "e-mail, vou mandar do tablet da Gabriela e vida que segue."
-    ),
-    "WhatsApp_Video_16.56.44.txt": (
-        "Ela está mandando, está vendo? Pode ir já está me pedindo paciência, falando. Eu tenho paciência porque eu falei, "
-        "olha, se continuar desse jeito aqui eu gente, a partir de janeiro eu estou procurando um mercado assim não dá, "
-        "falei, falei Pra Ele, pra esse não dá pra eu ficar aqui ralando toda comprometida com né tentando ajudar um time "
-        "todos comprometido com a babá com essa mulher me jogando é é dando palavras nas minhas costas eu falei gente, "
-        "eu, ela, ela é minha chefe e eu não posso contar então assim como que eu, como que eu posso fazer isso? Não dá? "
-        "Falei assim, falei em meu lugar, Ah, mandei, falei um Monte, acho que eles mandaram até saúde pra lá ó, "
-        "eu quero que você se foda, eu tô no todo amada. Entendeu? Aí antes, antes de eu falar isso daí, já tinham falado "
-        "já, né? Que não, o pessoal justamente já quis. O senhor falou que não, porque você não tem meu. Vai demorar muito "
-        "só Pra Ela, já vai ser demorado. Não dá pra pegar sua agenda pra você fazer isso. Ela se fodeu, depois vou te mandar o print."
-    ),
-    "WhatsApp_Video_16.56.46.txt": (
-        "Minha filha, agora vai ser tudo ou nada foda se vamos meter no Ministério do trabalho, falar sobre a insalubridade, "
-        "que ninguém faz nada, mesmo sabendo que todo mundo trabalha 1213141516 horas, final de semana, que é insalubre, "
-        "ninguém faz nada. Vamos, vamos mandar a lei de trabalho, vamos mandar a lei, veja a lei, nós vamos denunciar aqui "
-        "para o Ministério do trabalho. Vamos denunciar o Ministério do trabalho porque AA aliens está infringindo as a as "
-        "leis brasileiras do Ministério. Vamos mandar para ele ali está aqui ó, é só vocês pedir para alguém traduzir quais "
-        "são as leis do trabalho. É aqui, não é cumprido. O Eduardo sabe de tudo isso e a única coisa que ele pensa aqui é "
-        "em produção, produção, produção, produção. Ninguém liga para qualidade de vida de ninguém, de ninguém. O negócio dele "
-        "é todo mundo tem que trabalhar os 3 dias no escritório, faça a chuva, faça sol e entrega, entrega, entrega. Quer dizer, "
-        "a gente não tem o mínimo de apoio moral. A gente é tratado tudo como qualquer merda. Você vai ver, vou, eu vou formular "
-        "esse e-mail, vou mandar do tablet da Gabriela e vida que segue, vou mandar pro Price townset, vou, vou pegar o nome dele, "
-        "vou mandar Pra Ele, vou mandar pro combinari. Porque eu como nariz, ele é LATAM, né? Então ele está acima do Edward."
-    ),
-    "Tegra_S_A_14.03.26.txt": (
+        "Tegra_S_A_14.03.26.txt": (
         "Eu fui leal a essa empresa por onze anos. Onze anos. Abri mão de outros empregos, de propostas melhores, porque acreditei"
         "que a Tegra era diferente. Que o programa de compliance era de verdade, não só parede de quadro e discurso de diretor em evento"
         "do IBGC. Eu precisava acreditar nisso. Eu não quero estar escrevendo isso aqui. Eu estou escrevendo porque não tenho mais"
